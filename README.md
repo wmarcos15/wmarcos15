@@ -1,8 +1,8 @@
-# Hi, I'm Guillermo 👋
+# Hello World
 
-I'm studying Informatik at TUM in Munich (originally from Spain).
+CS Student @ TU Munich.
 
-I like building things from scratch to see how they actually work, and then trying to make them faster. Most of what I've written so far is in C and C++, but I want to try a bit of everything.
+I like building things from scratch and see how they actually work, and then making them faster (or at least trying). Most of what I've written so far is in C and C++, but I love to try new things.
 
 Right now I'm working on a trading strategy simulator, which should be up here soon.
 
