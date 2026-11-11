@@ -1,8 +1,8 @@
 # Hello World
 
-CS Student @ TU Munich.
+CS student @ TU Munich.
 
-I like building things from scratch and see how they actually work, and then making them faster (or at least trying). Most of what I've written so far is in C and C++, but I love to try new things.
+I like building things from scratch and seeing how they actually work, and then making them faster (or at least trying). Most of what I've written so far is in C and C++, but I love to try new things.
 
 Right now I'm working on a trading strategy simulator, which should be up here soon.
 
